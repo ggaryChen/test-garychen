@@ -5,8 +5,7 @@
   "homepage": "",
   "author": {
     "name": "garychen",
-    "email": "garychench@qq.com",
-    "url": ""
+    "email": "garychench@qq.com"
   },
   "files": [
     "lib"
